@@ -10,7 +10,7 @@ export default class NavBarSite extends Component {
         <section
           id="header"
           className="height-half"
-          data-image="./assets/images/header.jpg"
+          data-image="assets/images/header.jpg"
         >
           <div className="overlay-bg"></div>
           <div className="d-table w-100 h-100">

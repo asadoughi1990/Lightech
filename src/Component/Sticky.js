@@ -21,12 +21,12 @@ class Sticky extends Component {
 
   handleScroll() {
     if (window.scrollY > 5) {
-      console.log("should lock");
+      // console.log("should lock");
       this.setState({
         scrollingLock: true
       });
     } else if (window.scrollY < 5) {
-      console.log("not locked");
+      // console.log("not locked");
       this.setState({
         scrollingLock: false
       });
@@ -42,7 +42,7 @@ class Sticky extends Component {
         <nav className="navbar navbar-expand-lg navbar-dark navbar-header fixed-top sticky sticky-dark pl-0 pr-0">
           <div className="container">
             <a className="navbar-brand" href="/">
-              <img src="./../assets/images/logo.png" height="35" alt="logo" />
+              <img src="assets/images/logo.png" height="35" alt="logo" />
             </a>
             <button
               className="navbar-toggler"
