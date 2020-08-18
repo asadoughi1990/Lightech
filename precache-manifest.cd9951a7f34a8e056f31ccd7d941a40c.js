@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be663c7dd33e748359fe95172510878f",
+    "revision": "42b9e6c65b9304fbd4718ec29903d5ea",
     "url": "/Lightech/index.html"
   },
   {
-    "revision": "9dc0a514da1aa235ba82",
+    "revision": "40b4b0cefafc5aed8eb4",
     "url": "/Lightech/static/css/main.0ce549a4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lightech/static/js/2.9bc619fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9dc0a514da1aa235ba82",
-    "url": "/Lightech/static/js/main.5d7baa2a.chunk.js"
+    "revision": "40b4b0cefafc5aed8eb4",
+    "url": "/Lightech/static/js/main.c52b99fc.chunk.js"
   },
   {
     "revision": "4babe8046b95220cbebd",

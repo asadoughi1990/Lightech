@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Lightech/static/css/main.0ce549a4.chunk.css",
-    "main.js": "/Lightech/static/js/main.5d7baa2a.chunk.js",
-    "main.js.map": "/Lightech/static/js/main.5d7baa2a.chunk.js.map",
+    "main.js": "/Lightech/static/js/main.c52b99fc.chunk.js",
+    "main.js.map": "/Lightech/static/js/main.c52b99fc.chunk.js.map",
     "runtime-main.js": "/Lightech/static/js/runtime-main.0dca645b.js",
     "runtime-main.js.map": "/Lightech/static/js/runtime-main.0dca645b.js.map",
     "static/js/2.9bc619fa.chunk.js": "/Lightech/static/js/2.9bc619fa.chunk.js",
     "static/js/2.9bc619fa.chunk.js.map": "/Lightech/static/js/2.9bc619fa.chunk.js.map",
     "index.html": "/Lightech/index.html",
-    "precache-manifest.249ae4ca41c4b08289a9f7df5a0b444d.js": "/Lightech/precache-manifest.249ae4ca41c4b08289a9f7df5a0b444d.js",
+    "precache-manifest.cd9951a7f34a8e056f31ccd7d941a40c.js": "/Lightech/precache-manifest.cd9951a7f34a8e056f31ccd7d941a40c.js",
     "service-worker.js": "/Lightech/service-worker.js",
     "static/css/main.0ce549a4.chunk.css.map": "/Lightech/static/css/main.0ce549a4.chunk.css.map",
     "static/js/2.9bc619fa.chunk.js.LICENSE.txt": "/Lightech/static/js/2.9bc619fa.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.0dca645b.js",
     "static/js/2.9bc619fa.chunk.js",
     "static/css/main.0ce549a4.chunk.css",
-    "static/js/main.5d7baa2a.chunk.js"
+    "static/js/main.c52b99fc.chunk.js"
   ]
 }
