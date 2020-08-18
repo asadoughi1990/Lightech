@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42b9e6c65b9304fbd4718ec29903d5ea",
+    "revision": "65446b6981d3f0a859a6e0ad063d6156",
     "url": "/Lightech/index.html"
   },
   {
-    "revision": "40b4b0cefafc5aed8eb4",
-    "url": "/Lightech/static/css/main.0ce549a4.chunk.css"
+    "revision": "cc6cbf899be05848632e",
+    "url": "/Lightech/static/css/main.c84e8704.chunk.css"
   },
   {
     "revision": "d4995695924241723d48",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lightech/static/js/2.9bc619fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40b4b0cefafc5aed8eb4",
-    "url": "/Lightech/static/js/main.c52b99fc.chunk.js"
+    "revision": "cc6cbf899be05848632e",
+    "url": "/Lightech/static/js/main.a852b9e9.chunk.js"
   },
   {
     "revision": "4babe8046b95220cbebd",
     "url": "/Lightech/static/js/runtime-main.0dca645b.js"
+  },
+  {
+    "revision": "2b165c960e4a002acbb443e3069fedfd",
+    "url": "/Lightech/static/media/header.2b165c96.jpg"
   },
   {
     "revision": "95477d3d8fa04c7b2a073a88ae967a71",
