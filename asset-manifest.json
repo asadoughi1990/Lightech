@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Lightech/static/css/main.0ce549a4.chunk.css",
+    "main.js": "/Lightech/static/js/main.5d7baa2a.chunk.js",
+    "main.js.map": "/Lightech/static/js/main.5d7baa2a.chunk.js.map",
+    "runtime-main.js": "/Lightech/static/js/runtime-main.0dca645b.js",
+    "runtime-main.js.map": "/Lightech/static/js/runtime-main.0dca645b.js.map",
+    "static/js/2.28bfd264.chunk.js": "/Lightech/static/js/2.28bfd264.chunk.js",
+    "static/js/2.28bfd264.chunk.js.map": "/Lightech/static/js/2.28bfd264.chunk.js.map",
+    "index.html": "/Lightech/index.html",
+    "precache-manifest.ccc9eb52d99302ff03bb1eedd175d4ff.js": "/Lightech/precache-manifest.ccc9eb52d99302ff03bb1eedd175d4ff.js",
+    "service-worker.js": "/Lightech/service-worker.js",
+    "static/css/main.0ce549a4.chunk.css.map": "/Lightech/static/css/main.0ce549a4.chunk.css.map",
+    "static/js/2.28bfd264.chunk.js.LICENSE.txt": "/Lightech/static/js/2.28bfd264.chunk.js.LICENSE.txt",
+    "static/media/default.css": "/Lightech/static/media/img5.95477d3d.jpg",
+    "static/media/ionicons.min.css": "/Lightech/static/media/ionicons.b2e0fc82.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dca645b.js",
+    "static/js/2.28bfd264.chunk.js",
+    "static/css/main.0ce549a4.chunk.css",
+    "static/js/main.5d7baa2a.chunk.js"
+  ]
+}
