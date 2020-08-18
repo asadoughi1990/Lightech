@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import AnchorLink from "react-anchor-link-smooth-scroll";
+
 
 class Sticky extends Component {
   constructor(props) {
@@ -58,29 +60,29 @@ class Sticky extends Component {
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item active">
-                    <a className="nav-link" href="#features">
+                    <AnchorLink className="nav-link" href="#features">
                       Features
-                    </a>
+                    </AnchorLink>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#services">
+                    <AnchorLink className="nav-link" href="#services">
                       Services
-                    </a>
+                    </AnchorLink>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#pricing">
+                    <AnchorLink className="nav-link" href="#pricing">
                       Pricing
-                    </a>
+                    </AnchorLink>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#team">
+                    <AnchorLink className="nav-link" href="#team">
                       Team
-                    </a>
+                    </AnchorLink>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#contact">
+                    <AnchorLink className="nav-link" href="#contact">
                       Contact
-                    </a>
+                    </AnchorLink>
                   </li>
               </ul>
             </div>
