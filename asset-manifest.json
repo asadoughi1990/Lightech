@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Lightech/static/css/main.c84e8704.chunk.css",
-    "main.js": "/Lightech/static/js/main.a852b9e9.chunk.js",
-    "main.js.map": "/Lightech/static/js/main.a852b9e9.chunk.js.map",
+    "main.js": "/Lightech/static/js/main.d0c74406.chunk.js",
+    "main.js.map": "/Lightech/static/js/main.d0c74406.chunk.js.map",
     "runtime-main.js": "/Lightech/static/js/runtime-main.0dca645b.js",
     "runtime-main.js.map": "/Lightech/static/js/runtime-main.0dca645b.js.map",
-    "static/js/2.9bc619fa.chunk.js": "/Lightech/static/js/2.9bc619fa.chunk.js",
-    "static/js/2.9bc619fa.chunk.js.map": "/Lightech/static/js/2.9bc619fa.chunk.js.map",
+    "static/js/2.449b6fc8.chunk.js": "/Lightech/static/js/2.449b6fc8.chunk.js",
+    "static/js/2.449b6fc8.chunk.js.map": "/Lightech/static/js/2.449b6fc8.chunk.js.map",
     "index.html": "/Lightech/index.html",
-    "precache-manifest.743bf69973c3b49e992c684381bd0949.js": "/Lightech/precache-manifest.743bf69973c3b49e992c684381bd0949.js",
+    "precache-manifest.fa2ce3608976023f57863ed1c7b10233.js": "/Lightech/precache-manifest.fa2ce3608976023f57863ed1c7b10233.js",
     "service-worker.js": "/Lightech/service-worker.js",
     "static/css/main.c84e8704.chunk.css.map": "/Lightech/static/css/main.c84e8704.chunk.css.map",
-    "static/js/2.9bc619fa.chunk.js.LICENSE.txt": "/Lightech/static/js/2.9bc619fa.chunk.js.LICENSE.txt",
+    "static/js/2.449b6fc8.chunk.js.LICENSE.txt": "/Lightech/static/js/2.449b6fc8.chunk.js.LICENSE.txt",
     "static/media/default.css": "/Lightech/static/media/img5.95477d3d.jpg",
     "static/media/ionicons.min.css": "/Lightech/static/media/ionicons.b2e0fc82.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.0dca645b.js",
-    "static/js/2.9bc619fa.chunk.js",
+    "static/js/2.449b6fc8.chunk.js",
     "static/css/main.c84e8704.chunk.css",
-    "static/js/main.a852b9e9.chunk.js"
+    "static/js/main.d0c74406.chunk.js"
   ]
 }
