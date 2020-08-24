@@ -14,7 +14,7 @@ class Features extends Component {
             <div className="row feature">
               <div className="col-md-6 feature-img">
                 <img
-                  src="assets/images/img3.jpg"
+                  src="assets/images/f-img3.jpg"
                   className="img-fluid mb-5 mb-md-0"
                   alt="handshake"
                 />
@@ -38,7 +38,7 @@ class Features extends Component {
             <div className="row feature">
               <div className="col-md-6 feature-img feature-right">
                 <img
-                  src="assets/images/img2.jpg"
+                  src="assets/images/f-img2.jpg"
                   className="img-fluid mb-5 mb-md-0"
                   alt="sibiloo"
                 />
@@ -62,7 +62,7 @@ class Features extends Component {
             <div className="row feature">
               <div className="col-md-6 feature-img">
                 <img
-                  src="assets/images/img4.jpg"
+                  src="assets/images/f-img4.jpg"
                   className="img-fluid mb-5 mb-md-0"
                   alt="switches"
                 />

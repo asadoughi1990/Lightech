@@ -8,7 +8,6 @@ import NavBarSite from "./Component/NavBarSite";
 import Features from "./Component/Features";
 import Services from "./Component/Services";
 import Started from "./Component/Started";
-import Pricing from "./Component/Pricing";
 import Team from './Component/Team';
 import Contact from './Component/Contact';
 import Footer from './Component/Footer';
@@ -20,7 +19,6 @@ function App() {
       <Features />
       <Services />
       <Started />
-      <Pricing />
       <Team />
       <Contact />
       <Footer />

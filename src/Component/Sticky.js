@@ -44,7 +44,7 @@ class Sticky extends Component {
         <nav className="navbar navbar-expand-lg navbar-dark navbar-header fixed-top sticky sticky-dark pl-0 pr-0">
           <div className="container">
             <a className="navbar-brand" href="/">
-              <img src="assets/images/logo.png" height="35" alt="logo" />
+              <img src="assets/images/logoL.png" height="35" alt="logo" />
             </a>
             <button
               className="navbar-toggler"
@@ -67,11 +67,6 @@ class Sticky extends Component {
                   <li className="nav-item">
                     <AnchorLink className="nav-link" href="#services">
                       Services
-                    </AnchorLink>
-                  </li>
-                  <li className="nav-item">
-                    <AnchorLink className="nav-link" href="#pricing">
-                      Pricing
                     </AnchorLink>
                   </li>
                   <li className="nav-item">

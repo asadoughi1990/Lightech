@@ -7,7 +7,7 @@ class Footer extends Component {
         <div className="container">
           <div className="row">
             <div className="col-md-4 col-lg-3 mt-4">
-              <div className="widget-title">Revolution</div>
+              <div className="widget-title">Lightech</div>
               <ul className="list-unstyled footer-list">
                 <li>
                   <a href="#header">Home</a>
@@ -17,9 +17,6 @@ class Footer extends Component {
                 </li>
                 <li>
                   <a href="#services">Services</a>
-                </li>
-                <li>
-                  <a href="#pricing">Pricing</a>
                 </li>
                 <li>
                   <a href="#team">Team</a>
@@ -82,7 +79,7 @@ class Footer extends Component {
 
           <div className="footer-bottom">
             <div className="d-flex">
-              2020 © Revolution Corp
+              2020 © Lightech Corp
               <div className="ml-auto">
                 <ul className="list-socmed list-unstyled m-0">
                   <li>
