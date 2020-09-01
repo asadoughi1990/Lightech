@@ -15,10 +15,9 @@ class Team extends Component {
     return (
       <section className="section bg-gray" id="team">
         <div className="container text-center">
-          <h1 className="section-title">Team</h1>
+          <h1 className="section-title">Mannschaft</h1>
           <p className="section-subtitle">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut
-            varius ex. Suspendisse sagittis rutrum condimentum.
+          Unsere Experten werden Sie mit Präzision und voller Qualität bedienen
           </p>
           <div className="container">
             <div className="row mt-5">{personHandler}</div>

@@ -6,7 +6,7 @@ class Contact extends Component {
       <section className="section" id="contact">
         <div className="container">
           <div className="text-center">
-            <h1 className="section-title">Contact</h1>
+            <h1 className="section-title">Kontakt</h1>
             <p className="section-subtitle">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
               ut varius ex. Suspendisse sagittis rutrum condimentum.
@@ -29,7 +29,7 @@ class Contact extends Component {
               <div className="contact-detail mt-4">
                 <i className="ion ion-ios-mail"></i>{" "}
                 <p>
-                  Email: <span className="fw-bold">hello@example.comm</span>
+                  Email: <span className="fw-bold">hello@example.com</span>
                 </p>
               </div>
             </div>

@@ -5,58 +5,55 @@ class Services extends Component {
     return (
       <section className="section bg-gray" id="services">
         <div className="container text-center">
-          <h1 className="section-title"> Services </h1>
+          <h1 className="section-title"> Dienstleistungen </h1>
           <p className="section-subtitle">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut
-            varius ex. Suspendisse sagittis rutrum condimentum.
+            Wir haben möglicherweise keine breite Palette von Dienstleistungen,
+            aber wir sind auf diese kurzen und nützlichen Dienstleistungen
+            spezialisiert
           </p>
 
           <div className="row mt-5">
             <div className="col-md-6">
               <div className="service-box text-center">
                 <h4 className="service-title">
-                  <i className="ion ion-ios-laptop"></i>
-                  Web Design
+                  <img src="assets/images/s1.jpeg" height="35" alt="Service 1" />
+                  Organisieren
                 </h4>
                 <p className="service-description mb-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Praesent ut varius ex.
+                Wir organisieren alle Schritte zum Einrichten von Produktionslinien für Sie
                 </p>
               </div>
             </div>
             <div className="col-md-6">
               <div className="service-box text-center">
                 <h4 className="service-title">
-                  <i className="ion ion-ios-phone-portrait"></i>
-                  Mobile Application
+                <img src="assets/images/s2.jpeg" height="35" alt="Service 2" />
+                  Überwachung
                 </h4>
                 <p className="service-description mb-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Praesent ut varius ex.
+                Nach der Organisation sind wir immer für die Überwachung verantwortlich
                 </p>
               </div>
             </div>
             <div className="col-md-6">
               <div className="service-box text-center">
                 <h4 className="service-title">
-                  <i className="ion ion-logo-game-controller-a"></i>
-                  Game Design
+                <img src="assets/images/s3.jpeg" height="35" alt="Service 3" />
+                  Performance
                 </h4>
                 <p className="service-description mb-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Praesent ut varius ex.
+                Auf Wunsch setzen wir das Projekt auch um
                 </p>
               </div>
             </div>
             <div className="col-md-6">
               <div className="service-box text-center">
                 <h4 className="service-title">
-                  <i className="ion ion-ios-code"></i>
-                  Web Programming
+                <img src="assets/images/s4.jpeg" height="35" alt="Service 4" />
+                  Zertifikat
                 </h4>
                 <p className="service-description mb-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Praesent ut varius ex.
+                Ausstellung eines Qualitätszertifikats aus Deutschland
                 </p>
               </div>
             </div>

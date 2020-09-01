@@ -5,10 +5,11 @@ class Features extends Component {
     return (
       <section className="section" id="features">
         <div className="container text-center">
-          <h1 className="section-title"> Features </h1>
+          <h1 className="section-title"> Eigenschaften </h1>
           <p className="section-subtitle">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut
-            varius ex. Suspendisse sagittis rutrum condimentum.
+            Unsere Hauptkompetenz liegt in der Entwicklung von
+            Konstruktionsprozessen, die sich auf elektronische Komponenten,
+            insbesondere LEDs, konzentrieren
           </p>
           <div className="mt-5">
             <div className="row feature">
@@ -20,18 +21,14 @@ class Features extends Component {
                 />
               </div>
               <div className="col-md-6 feature-detail">
-                <h2 className="feature-title">Good for Small Business</h2>
+                <h2 className="feature-title">
+                  Beteiligung an der Einrichtung von Lichtlabors
+                </h2>
                 <p className="feature-description">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-                  vehicula, augue pellentesque varius viverra, augue eros
-                  facilisis nulla, et tempus libero orci vitae risus.
+                  Wir stehen Ihnen zur Seite, um leichte Subspezialitätslabors
+                  in der Automobilindustrie entsprechend Ihren Anforderungen
+                  einzurichten und zu überwachen.
                 </p>
-                <div className="btn btn-custom btn-text">
-                  <div className="d-flex align-items-center justify-content-center">
-                    Learn More{" "}
-                    <i className="ion ion-ios-arrow-round-forward ml-2 icon-btn"></i>
-                  </div>
-                </div>
               </div>
             </div>
 
@@ -44,18 +41,12 @@ class Features extends Component {
                 />
               </div>
               <div className="col-md-6 feature-detail">
-                <h2 className="feature-title">Super Fast Response</h2>
+                <h2 className="feature-title">Probenahme</h2>
                 <p className="feature-description">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-                  vehicula, augue pellentesque varius viverra, augue eros
-                  facilisis nulla, et tempus libero orci vitae risus.
+                  Zusätzlich zum Entwerfen von technischen Tests können Sie auch
+                  Muster von von Lichtern entworfenen Platten für erste Tests
+                  verwenden.
                 </p>
-                <div className="btn btn-custom btn-text">
-                  <div className="d-flex align-items-center justify-content-center">
-                    Learn More{" "}
-                    <i className="ion ion-ios-arrow-round-forward ml-2 icon-btn"></i>
-                  </div>
-                </div>
               </div>
             </div>
 
@@ -68,18 +59,11 @@ class Features extends Component {
                 />
               </div>
               <div className="col-md-6 feature-detail">
-                <h2 className="feature-title">Using Good Technology</h2>
+                <h2 className="feature-title">Überwachen Sie mit uns</h2>
                 <p className="feature-description">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-                  vehicula, augue pellentesque varius viverra, augue eros
-                  facilisis nulla, et tempus libero orci vitae risus.
+                  Wir werden ihre Produktions- und Qualitätskontrollprozesse
+                  immer nach Genehmigung unserer Lieferanten überwachen
                 </p>
-                <div className="btn btn-custom btn-text">
-                  <div className="d-flex align-items-center justify-content-center">
-                    Learn More{" "}
-                    <i className="ion ion-ios-arrow-round-forward ml-2 icon-btn"></i>
-                  </div>
-                </div>
               </div>
             </div>
           </div>

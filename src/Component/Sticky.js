@@ -2,12 +2,11 @@ import React, { Component } from "react";
 
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
-
 class Sticky extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      scrollingLock: false
+      scrollingLock: false,
     };
     // example how to bind object in React ES6
     this.handleScroll = this.handleScroll.bind(this);
@@ -25,12 +24,12 @@ class Sticky extends Component {
     if (window.scrollY > 5) {
       // console.log("should lock");
       this.setState({
-        scrollingLock: true
+        scrollingLock: true,
       });
     } else if (window.scrollY < 5) {
       // console.log("not locked");
       this.setState({
-        scrollingLock: false
+        scrollingLock: false,
       });
     }
   }
@@ -60,25 +59,25 @@ class Sticky extends Component {
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item active">
-                    <AnchorLink className="nav-link" href="#features">
-                      Features
-                    </AnchorLink>
-                  </li>
-                  <li className="nav-item">
-                    <AnchorLink className="nav-link" href="#services">
-                      Services
-                    </AnchorLink>
-                  </li>
-                  <li className="nav-item">
-                    <AnchorLink className="nav-link" href="#team">
-                      Team
-                    </AnchorLink>
-                  </li>
-                  <li className="nav-item">
-                    <AnchorLink className="nav-link" href="#contact">
-                      Contact
-                    </AnchorLink>
-                  </li>
+                  <AnchorLink className="nav-link" href="#features">
+                    Eigenschaften
+                  </AnchorLink>
+                </li>
+                <li className="nav-item">
+                  <AnchorLink className="nav-link" href="#services">
+                  Dienstleistungen
+                  </AnchorLink>
+                </li>
+                <li className="nav-item">
+                  <AnchorLink className="nav-link" href="#team">
+                  Mannschaft
+                  </AnchorLink>
+                </li>
+                {/* <li className="nav-item">
+                  <AnchorLink className="nav-link" href="#contact">
+                  Kontakt
+                  </AnchorLink>
+                </li> */}
               </ul>
             </div>
           </div>

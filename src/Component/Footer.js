@@ -10,53 +10,53 @@ class Footer extends Component {
               <div className="widget-title">Lightech</div>
               <ul className="list-unstyled footer-list">
                 <li>
-                  <a href="#header">Home</a>
+                  <a href="#header">Zuhause</a>
                 </li>
                 <li>
-                  <a href="#features">Features</a>
+                  <a href="#features">Eigenschaften</a>
                 </li>
                 <li>
-                  <a href="#services">Services</a>
+                  <a href="#services">Dienstleistungen</a>
                 </li>
                 <li>
-                  <a href="#team">Team</a>
+                  <a href="#team">Mannschaft</a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#contact">Contact</a>
-                </li>
+                </li> */}
               </ul>
             </div>
             <div className="col-md-4 col-lg-3 mt-4">
-              <div className="widget-title">Useful Links</div>
+              <div className="widget-title">Nützliche Links</div>
               <ul className="list-unstyled footer-list">
                 <li>
-                  <a href="/">Term of Services</a>
+                  <a href="/">Laufzeit der Dienstleistungen</a>
                 </li>
                 <li>
-                  <a href="/">Privacy & Policy</a>
+                  <a href="/">Datenschutz-Bestimmungen</a>
                 </li>
                 <li>
                   <a href="/">Sitemaps</a>
                 </li>
                 <li>
-                  <a href="/">Our Rules</a>
+                  <a href="/">Unsere Regeln</a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="/">Career</a>
-                </li>
+                </li> */}
               </ul>
             </div>
             <div className="col-md-4 col-lg-3 mt-4">
-              <div className="widget-title">Support</div>
+              <div className="widget-title">Unterstützung</div>
               <ul className="list-unstyled footer-list">
                 <li>
-                  <a href="/">Help Center</a>
+                  <a href="/">Hilfezentrum</a>
                 </li>
                 <li>
                   <a href="/">Live Chat</a>
                 </li>
                 <li>
-                  <a href="/">Press</a>
+                  <a href="/">Drücken Sie</a>
                 </li>
               </ul>
             </div>
@@ -64,12 +64,12 @@ class Footer extends Component {
               <div className="widget-title">Newsletter</div>
               <form className="form subscribe">
                 <input
-                  placeholder="Your Email"
+                  placeholder="Deine E-Mail"
                   className="form-control mb-3"
                   required=""
                 />
                 <a href="/" className="btn btn-custom btn-block submit">
-                  Subscribe
+                  Abonnieren
                 </a>
               </form>
             </div>

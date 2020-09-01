@@ -9,7 +9,7 @@ import Features from "./Component/Features";
 import Services from "./Component/Services";
 import Started from "./Component/Started";
 import Team from './Component/Team';
-import Contact from './Component/Contact';
+// import Contact from './Component/Contact';
 import Footer from './Component/Footer';
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
       <Services />
       <Started />
       <Team />
-      <Contact />
+      {/* <Contact /> */}
       <Footer />
     </React.Fragment>
   );

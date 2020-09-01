@@ -1,22 +1,22 @@
 export const Person = [
   {
-    teamname: "Ali Sadoughi",
-    skill: "Front-end Developer",
+    teamname: "JENY ZHUANG",
+    skill: "Vertreter Chinas",
     photo: "assets/images/person1.jpg"
   },
   {
-    teamname: "Mamad Nazari",
-    skill: "Back-end Developer",
+    teamname: "Gerhard Wronken",
+    skill: "Geschäftsführer",
     photo: "assets/images/person2.jpg"
   },
   {
-    teamname: "Nima Ab",
-    skill: "Lawyer",
+    teamname: "Richard grephens",
+    skill: "Planungs-Manager",
     photo: "assets/images/person3.jpg"
   },
   {
-    teamname: "Hamed Nazari",
-    skill: "Khoshgel",
+    teamname: "Ayuob kujar",
+    skill: "F & E-Manager",
     photo: "assets/images/person4.jpg"
   }
 ];
